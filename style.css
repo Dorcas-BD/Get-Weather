@@ -1,0 +1,90 @@
+body {
+    background-image: linear-gradient(rgb(223, 223, 236), rgb(84, 84, 202), rgb(20, 20, 146));
+    padding: 0;
+    margin: 0;
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+}    
+
+.container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+.button_1{
+    height: 25px;
+    background: rgb(20, 47, 128);
+    border: 0;
+    color: white;
+}
+
+
+header #logo{
+    float: left;
+}
+
+header #logo h1{
+    margin: 1rem;
+}
+
+
+#showcase{
+    text-align:center;
+    padding-top: 220px;
+    
+}
+
+.box{
+    display:inline-block;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%; 
+    position: absolute;
+}
+
+.word{
+    display:inline-block;
+    margin-top: 160px;
+    text-align: center;
+    width: 100%;
+}
+.button{
+    width: 100px;
+    background-color: #090b5e;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.input {
+    width: 50%;
+    padding:  10px 0;
+    font-size: 16px;
+    margin: 20px 0;
+    border: none;
+    border-bottom: 2px solid #333;
+    outline: none;
+    resize: none;
+}
+
+.button:hover {
+    border: 2px solid #090b5e;
+}
+
+
+footer {
+    text-align: center;
+    background:none;
+    color: white;
+    padding: 0.5px;
+    margin: 0px;
+    margin-bottom: 0px;
+    
+}
