@@ -64,9 +64,9 @@ header #logo h1{
 }
 
 .input {
-    width: 30%;
+    width: 40%;
     padding:  10px 0;
-    font-size: 40px;
+    font-size: 20px;
     margin: 20px 0;
     border: none;
     border-bottom: 2px solid #333;
